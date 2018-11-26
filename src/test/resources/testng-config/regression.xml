@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="OpenKartSuite" parallel="none" thread-count="2">
+
+	<test name="Regression">
+		
+		<packages>
+			<package name="com.slokam.automation.scripts.admin"></package>
+		</packages>
+	</test>
+
+</suite>
