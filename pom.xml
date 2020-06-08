@@ -137,9 +137,6 @@
 				<configuration>
 					<includeEmptyDirs>true</includeEmptyDirs>
 				</configuration>
-				<configuration>
-					<useSystemClassLoader>false</useSystemClassLoader>
-				</configuration>
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
